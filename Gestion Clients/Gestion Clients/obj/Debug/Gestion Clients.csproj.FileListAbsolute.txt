@@ -1,0 +1,10 @@
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\bin\Debug\Gestion Clients.exe.config
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\bin\Debug\Gestion Clients.exe
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\bin\Debug\Gestion Clients.pdb
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion Clients.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion_Clients.Form1.resources
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion_Clients.Properties.Resources.resources
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion Clients.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion Clients.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion Clients.exe
+C:\Users\Youcode\source\repos\Gestion Clients\Gestion Clients\obj\Debug\Gestion Clients.pdb
